@@ -12,12 +12,8 @@
 - 💬 Ask me about **HTML, CSS, Responsive desing**
 
 - 📫 How to reach me **brunoporfidio117@gmail.com**
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoporfidio&show_icons=true&locale=en&layout=compact" alt="brunoporfidio" /> </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
+ <br>
+<h2 align="left">Languages and Tools:</h2>
 <div > 
 <h2> Front End Skills</h2>
   
