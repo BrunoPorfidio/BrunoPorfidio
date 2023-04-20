@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Bruno Porfidio</h1>
 <h3 align="center">An Argentinian Developer following a Full Stack path</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/BrunoPorfidio/Portfolio-FrontEnd)
+- 🔭 I’m currently working on [Lucibookslu blog](https://github.com/BrunoPorfidio/LuciaBlog-Front)
 
 - 🌱 I’m currently learning **Angular, Java, TypeScript**
 
