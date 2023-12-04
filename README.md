@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anywhere they need help**
 
-- 👨‍💻 All of my projects are available coming soon in [https://miportfolioweb-e312a.web.app](https://brunoporfidio-portfolio.web.app)
+- 👨‍💻 All of my projects are available coming soon in [https://brunoporfidio-portfolio.web.app](https://brunoporfidio-portfolio.web.app)
 
 - 💬 Ask me about **Angular, HTML, CSS, Responsive desing and Java**
 
