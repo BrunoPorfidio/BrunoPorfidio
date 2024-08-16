@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Bruno Porfidio</h1>
 <h3 align="center">An Argentinian Developer following a Full Stack path</h3>
 
-- 🔭 I’m currently working on GarritasMel Ecommerce.
+- 🔭 I’m currently working on Organizable.
 
 - 🌱 I’m currently development with **Angular, Java, TypeScript**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available coming soon in [https://brunoporfidio-portfolio.web.app](https://brunoporfidio-portfolio.web.app)
 
-- 💬 Ask me about **Angular, HTML, CSS, Responsive desing and Java**
+- 💬 Ask me about **Angular, Java and Spring Boot.**
 
 - 📫 How to reach me **brunoporfidio117@gmail.com**
  <br>
