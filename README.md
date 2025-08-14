@@ -17,8 +17,6 @@ Me dedico a escribir código limpio, eficiente y mantenible, y me gusta contribu
 
 📫 Puedes contactarme en brunoporfidio117@gmail.com.
 
-💼 Mi portfolio próximamente en brunoporfidio-portfolio.web.app
-
 🚀 Mi Stack Tecnológico
 
 
@@ -88,6 +86,9 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 
 🔗 Conecta Conmigo
 <div align="center">
+ <a href="https://brunoporfidio-portfolio.web.app" target="_blank">
+<img src="https://img.shields.io/badge/Ir%20a%20mi%20Portafolio-4682B4?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/bruno-porfidio/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40"/>
 </a>
