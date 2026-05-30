@@ -1,98 +1,64 @@
-<!-- Encabezado -->
-
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h1 align="center">¡Hola! 👋 Soy Bruno Porfidio</h1>
-<h3 align="center">Desarrollador Back End especializado en Java, Spring Boot y Angular.</h3>
+<div align="center">
+  <h1>¡Hola! 👋 Soy Bruno Porfidio</h1>
+  <h3>Full Stack & AI-Assisted Engineer | Especialista en Java, Spring y React</h3>
+  <br>
+  <p>
+    <a href="https://brunoporfidio-portfolio.web.app" target="_blank"><img src="https://img.shields.io/badge/Portafolio-4682B4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/bruno-porfidio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:brunoporfidio117@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
-👨‍💻 Sobre Mí
-Soy un desarrollador de Argentina con más de 2 años de experiencia construyendo y manteniendo aplicaciones web escalables. Mi principal enfoque es la creación de APIs RESTful robustas con Java y Spring Boot, pero también soy un apasionado del desarrollo Full Stack, con experiencia práctica en Angular y tecnologías de frontend modernas.
+---
 
-Me dedico a escribir código limpio, eficiente y mantenible, y me gusta contribuir en todo el ciclo de vida del desarrollo de software.
+## 👨‍💻 Sobre Mí
 
-👨‍💻 Actualmente trabajo como Desarrollador Back End Java en Venedicto Developers.
+Soy un Desarrollador de Software de Argentina con **3 años de experiencia** construyendo plataformas web de alto rendimiento. Mi filosofía de trabajo combina la solidez de la arquitectura tradicional con la velocidad de las nuevas herramientas de Inteligencia Artificial.
 
-🌱 Mi stack principal es Java, Spring Boot, Angular y MySQL.
+- ⚙️ **Backend Core:** Experiencia liderando migraciones de monolitos a **Microservicios**. Diseño APIs RESTful robustas, seguras y altamente concurrentes utilizando **Java y Spring Boot**.
+- ⚛️ **Frontend Dinámico:** Construyo interfaces de usuario modernas, interactivas y responsivas integrando **React JS** y **Angular**.
+- 🤖 **AI-Assisted Developer (Vibe Coding):** Utilizo IA generativa (Cursor, Gemini) de forma estructural para multiplicar la velocidad de desarrollo, refactorizar código y asegurar la máxima cobertura de tests.
+- 🧪 **Clean Code:** Obsesionado con el código limpio, los principios SOLID y el testing automatizado (JUnit + Mockito).
 
-📫 Puedes contactarme en brunoporfidio117@gmail.com.
+> **Actualmente trabajo como Desarrollador Full Stack / Backend Java en Vendicto Developers.**
 
-🚀 Mi Stack Tecnológico
+---
 
+## 🚀 Mi Stack Tecnológico
 
-<p align="center">🛠️ Front-End:</p>
-<p align="center">
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.w3.org/TR/html5/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-</p>
-
-<p align="center">⚙️ Back-End:</p>
-<p align="center">
-<a href="https://www.java.com" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/spring-boot-icon.png" alt="Spring" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-</p>
-
-<p align="center">🧪 Tests:</p>
-<p align="center">
-<a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/></a>
-<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-</p>
-
-<p align="center">🧰 Otras Herramientas:</p>
-<p align="center">
-<a href="https://www.git-scm.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.png" alt="Git" height="50" /></a>
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" /></a>
-</p>
-
-📊 Mis Estadísticas en GitHub
 <div align="center">
-<table>
-<tr>
-<td>
-<picture>
-<source
-srcset="https://github-readme-stats.vercel.app/api?username=BrunoPorfidio&show_icons=true&theme=dark"
-media="(prefers-color-scheme: dark)"
-/>
-<source
-srcset="https://github-readme-stats.vercel.app/api?username=BrunoPorfidio&show_icons=true"
-media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=BrunoPorfidio&show_icons=true" />
-</picture>
-</td>
-<td>
- <picture>
-<source
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPorfidio&layout=compact"
-media="(prefers-color-scheme: dark)"
-/>
-<source
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPorfidio&layout=compact"
-media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPorfidio&layout=compact" />
-</picture>
-</td>
-</tr>
-</table>
+
+### ⚙️ Backend & Bases de Datos
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,hibernate&perline=10" alt="Backend Stack" />
+</a>
+
+### 🎨 Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,bootstrap&perline=10" alt="Frontend Stack" />
+</a>
+
+### 🧰 Testing, DevOps & Herramientas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode&perline=10" alt="Tools Stack" />
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5" />
+<img src="https://img.shields.io/badge/Mockito-8BC34A?style=flat-square&logo=mockito&logoColor=white" alt="Mockito" />
+<img src="https://img.shields.io/badge/AI_Tools-Cursor_%7C_Gemini-8A2BE2?style=flat-square" alt="AI Tools" />
+
 </div>
 
-🔗 Conecta Conmigo
+---
+
+## 💡 En qué estoy trabajando / Hitos Destacados
+
+- 🧠 **Fluent AI:** Construí una plataforma interactiva de aprendizaje de idiomas orquestando LLMs en tiempo real mediante APIs REST y aplicando *Prompt Engineering* avanzado para asegurar respuestas sin latencia.
+- 🏗️ **Arquitectura Cloud:** Migración exitosa de un sistema monolítico legado hacia una arquitectura de microservicios, optimizando consultas SQL complejas y reduciendo drásticamente los tiempos de respuesta.
+- 📚 **Aprendizaje Activo:** Actualmente profundizando en ecosistemas Serverless y herramientas Cloud (AWS) para desplegar agentes de Inteligencia Artificial.
+
+---
+
 <div align="center">
- <a href="https://brunoporfidio-portfolio.web.app" target="_blank">
-<img src="https://img.shields.io/badge/Ir%20a%20mi%20Portafolio-4682B4?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/bruno-porfidio/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40"/>
-</a>
-<a href="mailto:brunoporfidio117@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+  <i>"Transformando lógica compleja en soluciones escalables."</i>
 </div>
